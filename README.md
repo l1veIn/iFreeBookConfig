@@ -1,2 +1,2 @@
 # iFreeBookConfig
-爱阅书香配置
+爱阅书香
